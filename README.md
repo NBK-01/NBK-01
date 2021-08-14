@@ -26,6 +26,8 @@
 [![NBK's GitHub stats](https://github-readme-stats.vercel.app/api?username=NBK-01&count_private=true&show_icons=true&theme=radical)
 ](https://github.com/NBK-01/github-readme-stats)
 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NBK-01&theme=radical)
+
 ## Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NBK-01&layout=compact&theme=radical)](https://github.com/NBK-01/github-readme-stats)
 
