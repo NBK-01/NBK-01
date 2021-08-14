@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=89058D&size=25&center=true&lines=Hey%F0%9F%91%8B+Welcome+to+my+page)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on: <a href="https://github.com/NBK-01/Portfolio-V2" target="_blank"> Portfolio-V2 </a>
-- 🌱 I’m currently learning: Backend Development with Node
+- 🌱 I’m currently learning: Node.Js
 - 📫 nayefkanaan03@gmail.com
 -  ## Reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-grey.svg?style=for-the-badge&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/nayef-kanaan-4aa1b1183/)
