@@ -6,7 +6,7 @@
 -  ## Reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-grey.svg?style=for-the-badge&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/nayef-kanaan-4aa1b1183/)
 [![Twitter](https://img.shields.io/badge/Twitter-grey.svg?style=for-the-badge&logo=Twitter&logoColor=purple)](https://twitter.com/NBK__01)
-[![Website](https://img.shields.io/badge/Portfolio-grey.svg?style=for-the-badge&logo=firefox&logoColor=purple)](https://nbk-01.github.io/Portfolio-Nayef-Kanaan/)
+[![Website](https://img.shields.io/badge/Portfolio-grey.svg?style=for-the-badge&logo=firefox&logoColor=purple)](https://nbk-01.github.io/Portfolio-V2/)
 
 ## Technology and Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
