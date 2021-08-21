@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=89058D&size=25&center=true&lines=Hey%F0%9F%91%8B+Welcome+to+my+page)
 
-- 🔭 I’m currently working on: <a href="https://github.com/NBK-01/Portfolio-V2" target="_blank"> Portfolio-V2 </a>
+- 🔭 I’m currently working on: <a href="https://github.com/NBK-01/ReadeMe-Generator" target="_blank"> A ReadMe Generator. </a>
 - 🌱 I’m currently learning: Node.Js
 - 📫 nayefkanaan03@gmail.com
 -  ## Reach me:
