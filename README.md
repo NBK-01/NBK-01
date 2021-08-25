@@ -1,8 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=89058D&size=25&center=true&lines=Hey%F0%9F%91%8B+Welcome+to+my+page)
 
 - 🔭 I’m currently working on: <a href="https://github.com/NBK-01/ReadeMe-Generator" target="_blank"> A ReadMe Generator. </a>
-- 🌱 I’m currently learning: Node.Js
-- 📫 nayefkanaan03@gmail.com
+- 🌱 I’m currently learning: ..
+- 📫 nbk01.dev@gmail.com
+
+
 -  ## Reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-grey.svg?style=for-the-badge&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/nayef-kanaan-4aa1b1183/)
 [![Twitter](https://img.shields.io/badge/Twitter-grey.svg?style=for-the-badge&logo=Twitter&logoColor=purple)](https://twitter.com/NBK__01)
