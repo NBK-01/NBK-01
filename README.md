@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=89058D&size=25&center=true&lines=Hey%F0%9F%91%8B+Hey+there)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=89058D&size=25&center=true&lines=Hey+There%F0%9F%91%8B)
 
 
 - 📫 nbk01.dev@gmail.com
