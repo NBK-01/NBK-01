@@ -7,9 +7,9 @@
 
 
 -  ## Reach me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-grey.svg?style=for-the-badge&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/nayef-kanaan-4aa1b1183/)
-[![Twitter](https://img.shields.io/badge/Twitter-grey.svg?style=for-the-badge&logo=Twitter&logoColor=purple)](https://twitter.com/NBK__01)
-### NA
+[![LinkedIn](https://img.shields.io/badge/linkedin-grey.svg?style=for-the-badge&logo=linkedin&logoColor=gold)](https://www.linkedin.com/in/nayef-kanaan-4aa1b1183/)
+[![Twitter](https://img.shields.io/badge/Twitter-grey.svg?style=for-the-badge&logo=Twitter&logoColor=gold)](https://twitter.com/NBK__03)
+
 
 
 ## Github Stats:
