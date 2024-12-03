@@ -12,9 +12,6 @@ twitter
 linkedin
 </a>
   -
-<a href="https://prbly.xyz" target="_blank">
-prbly
-</a>
 </div>  
   
 
